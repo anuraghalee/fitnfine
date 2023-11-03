@@ -1,0 +1,336 @@
+[
+    {
+        "name": "Chair Squat",
+        "force": "push",
+        "level": "beginner",
+        "mechanic": "compound",
+        "equipment": "machine",
+        "primaryMuscles": [
+            "quadriceps"
+        ],
+        "secondaryMuscles": [
+            "calves",
+            "glutes",
+            "hamstrings"
+        ],
+        "instructions": [
+            "To begin, first set the bar to a position that best matches your height. Once the bar is loaded, step under it and position it across the back of your shoulders.",
+            "Take the bar with your hands facing forward, unlock it and lift it off the rack by extending your legs.",
+            "Move your feet forward about 18 inches in front of the bar. Position your legs using a shoulder width stance with the toes slightly pointed out. Look forward at all times and maintain a neutral or slightly arched spine. This will be your starting position.",
+            "Slowly lower the bar by bending the knees as you maintain a straight posture with the head up. Continue down until the angle between the upper and lower leg breaks 90 degrees.",
+            "Begin to raise the bar as you exhale by pushing the floor with the heels of your feet, extending the knees and returning to the starting position.",
+            "Repeat for the recommended amount of repetitions."
+        ],
+        "category": "strength",
+        "images": [
+            "Chair_Squat/0.jpg",
+            "Chair_Squat/1.jpg"
+        ],
+        "id": "Chair_Squat"
+    },
+    {
+        "name": "Barbell Deadlift",
+        "force": "pull",
+        "level": "intermediate",
+        "mechanic": "compound",
+        "equipment": "barbell",
+        "primaryMuscles": [
+            "lower back"
+        ],
+        "secondaryMuscles": [
+            "calves",
+            "forearms",
+            "glutes",
+            "hamstrings",
+            "lats",
+            "middle back",
+            "quadriceps",
+            "traps"
+        ],
+        "instructions": [
+            "Stand in front of a loaded barbell.",
+            "While keeping the back as straight as possible, bend your knees, bend forward and grasp the bar using a medium (shoulder width) overhand grip. This will be the starting position of the exercise. Tip: If it is difficult to hold on to the bar with this grip, alternate your grip or use wrist straps.",
+            "While holding the bar, start the lift by pushing with your legs while simultaneously getting your torso to the upright position as you breathe out. In the upright position, stick your chest out and contract the back by bringing the shoulder blades back. Think of how the soldiers in the military look when they are in standing in attention.",
+            "Go back to the starting position by bending at the knees while simultaneously leaning the torso forward at the waist while keeping the back straight. When the weights on the bar touch the floor you are back at the starting position and ready to perform another repetition.",
+            "Perform the amount of repetitions prescribed in the program."
+        ],
+        "category": "strength",
+        "images": [
+            "Barbell_Deadlift/0.jpg",
+            "Barbell_Deadlift/1.jpg"
+        ],
+        "id": "Barbell_Deadlift"
+    },
+    {
+        "name": "Front Box Jump",
+        "force": "push",
+        "level": "beginner",
+        "mechanic": "compound",
+        "equipment": "other",
+        "primaryMuscles": [
+            "hamstrings"
+        ],
+        "secondaryMuscles": [
+            "abductors",
+            "adductors",
+            "calves",
+            "glutes",
+            "quadriceps"
+        ],
+        "instructions": [
+            "Begin with a box of an appropriate height 1-2 feet in front of you. Stand with your feet should width apart. This will be your starting position.",
+            "Perform a short squat in preparation for jumping, swinging your arms behind you.",
+            "Rebound out of this position, extending through the hips, knees, and ankles to jump as high as possible. Swing your arms forward and up.",
+            "Land on the box with the knees bent, absorbing the impact through the legs. You can jump from the box back to the ground, or preferably step down one leg at a time."
+        ],
+        "category": "plyometrics",
+        "images": [
+            "Front_Box_Jump/0.jpg",
+            "Front_Box_Jump/1.jpg"
+        ],
+        "id": "Front_Box_Jump"
+    },
+    {
+        "name": "Box Jump (Multiple Response)",
+        "force": "push",
+        "level": "beginner",
+        "mechanic": "compound",
+        "equipment": "other",
+        "primaryMuscles": [
+            "hamstrings"
+        ],
+        "secondaryMuscles": [
+            "abductors",
+            "adductors",
+            "calves",
+            "glutes",
+            "quadriceps"
+        ],
+        "instructions": [
+            "Assume a relaxed stance facing the box or platform approximately an arm's length away. Arms should be down at the sides and legs slightly bent.",
+            "Using the arms to aid in the initial burst, jump upward and forward, landing with feet simultaneously on top of the box or platform.",
+            "Immediately drop or jump back down to the original starting place; then repeat the sequence."
+        ],
+        "category": "plyometrics",
+        "images": [
+            "Box_Jump_Multiple_Response/0.jpg",
+            "Box_Jump_Multiple_Response/1.jpg"
+        ],
+        "id": "Box_Jump_Multiple_Response"
+    },
+    {
+        "name": "Front Squat (Clean Grip)",
+        "force": "push",
+        "level": "intermediate",
+        "mechanic": "compound",
+        "equipment": "barbell",
+        "primaryMuscles": [
+            "quadriceps"
+        ],
+        "secondaryMuscles": [
+            "abdominals",
+            "glutes",
+            "hamstrings"
+        ],
+        "instructions": [
+            "To begin, first set the bar in a rack slightly below shoulder level. Rest the bar on top of the deltoids, pushing into the clavicles, and lightly touching the throat. Your hands should be in a clean grip, touching the bar only with your fingers to help keep it in position.",
+            "Lift the bar off the rack by first pushing with your legs and at the same time straightening your torso. Step away from the rack and position your legs using a shoulder width medium stance with the toes slightly pointed out. Keep your head and elbows up at all times. This will be your starting position.",
+            "Bend at the knees, sitting down between your legs. Continue down until your hamstrings are on your calves. Keep your knees aligned with your feet by consciously using your abductors to push your knees out as you squat.",
+            "Begin to raise the bar as you exhale by pushing the floor mainly with the heel or middle of your foot as you straighten the legs again and return to the starting position."
+        ],
+        "category": "strength",
+        "images": [
+            "Front_Squat_Clean_Grip/0.jpg",
+            "Front_Squat_Clean_Grip/1.jpg"
+        ],
+        "id": "Front_Squat_Clean_Grip"
+    },
+    {
+        "name": "Barbell Full Squat",
+        "force": "push",
+        "level": "intermediate",
+        "mechanic": "compound",
+        "equipment": "barbell",
+        "primaryMuscles": [
+            "quadriceps"
+        ],
+        "secondaryMuscles": [
+            "calves",
+            "glutes",
+            "hamstrings",
+            "lower back"
+        ],
+        "instructions": [
+            "This exercise is best performed inside a squat rack for safety purposes. To begin, first set the bar on a rack just above shoulder level. Once the correct height is chosen and the bar is loaded, step under the bar and place the back of your shoulders (slightly below the neck) across it.",
+            "Hold on to the bar using both arms at each side and lift it off the rack by first pushing with your legs and at the same time straightening your torso.",
+            "Step away from the rack and position your legs using a shoulder-width medium stance with the toes slightly pointed out. Keep your head up at all times and maintain a straight back. This will be your starting position.",
+            "Begin to slowly lower the bar by bending the knees and sitting back with your hips as you maintain a straight posture with the head up. Continue down until your hamstrings are on your calves. Inhale as you perform this portion of the movement.",
+            "Begin to raise the bar as you exhale by pushing the floor with the heel or middle of your foot as you straighten the legs and extend the hips to go back to the starting position.",
+            "Repeat for the recommended amount of repetitions."
+        ],
+        "category": "strength",
+        "images": [
+            "Barbell_Full_Squat/0.jpg",
+            "Barbell_Full_Squat/1.jpg"
+        ],
+        "id": "Barbell_Full_Squat"
+    },
+    {
+        "name": "One-Arm Kettlebell Swings",
+        "force": "pull",
+        "level": "intermediate",
+        "mechanic": "compound",
+        "equipment": "kettlebells",
+        "primaryMuscles": [
+            "hamstrings"
+        ],
+        "secondaryMuscles": [
+            "calves",
+            "glutes",
+            "lower back",
+            "shoulders"
+        ],
+        "instructions": [],
+        "category": "strength",
+        "images": [
+            "One-Arm_Kettlebell_Swings/0.jpg",
+            "One-Arm_Kettlebell_Swings/1.jpg"
+        ],
+        "id": "One-Arm_Kettlebell_Swings"
+    },
+    {
+        "name": "Kettlebell Thruster",
+        "force": "push",
+        "level": "intermediate",
+        "mechanic": "compound",
+        "equipment": "kettlebells",
+        "primaryMuscles": [
+            "shoulders"
+        ],
+        "secondaryMuscles": [
+            "quadriceps",
+            "triceps"
+        ],
+        "instructions": [
+            "Clean two kettlebells to your shoulders. Clean the kettlebells to your shoulders by extending through the legs and hips as you pull the kettlebells towards your shoulders. Rotate your wrists as you do so. This will be your starting position.",
+            "Begin to squat by flexing your hips and knees, lowering your hips between your legs. Maintain an upright, straight back as you descend as low as you can.",
+            "At the bottom, reverse direction and squat by extending your knees and hips, driving through your heels. As you do so, press both kettlebells overhead by extending your arms straight up, using the momentum from the squat to help drive the weights upward.",
+            "As you begin the next repetition, return the weights to the shoulders."
+        ],
+        "category": "strength",
+        "images": [
+            "Kettlebell_Thruster/0.jpg",
+            "Kettlebell_Thruster/1.jpg"
+        ],
+        "id": "Kettlebell_Thruster"
+    },
+    {
+        "name": "Split Jerk",
+        "force": "push",
+        "level": "intermediate",
+        "mechanic": "compound",
+        "equipment": "barbell",
+        "primaryMuscles": [
+            "quadriceps"
+        ],
+        "secondaryMuscles": [
+            "glutes",
+            "hamstrings",
+            "shoulders",
+            "triceps"
+        ],
+        "instructions": [
+            "Standing with the weight racked on the front of the shoulders, begin with the dip. With your feet directly under your hips, flex the knees without moving the hips backward.",
+            "Go down only slightly, and reverse direction as powerfully as possible. Drive through the heels create as much speed and force as possible, and be sure to move your head out of the way as the bar leaves the shoulders. At this moment as the feet leave the floor, the feet must be placed into the receiving position as quickly as possible.",
+            "In the brief moment the feet are not actively driving against the platform, the athleteâ€™s effort to push the bar up will drive them down. The feet should be moved to a split stance, one foot forward, one foot back, with the knees partially bent. Receive the bar with the arms locked out overhead.",
+            "Return to a standing position, bringing the feet together."
+        ],
+        "category": "olympic weightlifting",
+        "images": [
+            "Split_Jerk/0.jpg",
+            "Split_Jerk/1.jpg"
+        ],
+        "id": "Split_Jerk"
+    },
+    {
+        "name": "Push Press",
+        "force": "push",
+        "level": "expert",
+        "mechanic": "compound",
+        "equipment": "barbell",
+        "primaryMuscles": [
+            "shoulders"
+        ],
+        "secondaryMuscles": [
+            "quadriceps",
+            "triceps"
+        ],
+        "instructions": [],
+        "category": "olympic weightlifting",
+        "images": [
+            "Push_Press/0.jpg",
+            "Push_Press/1.jpg"
+        ],
+        "id": "Push_Press"
+    },
+    {
+        "name": "Muscle Up",
+        "force": "pull",
+        "level": "intermediate",
+        "mechanic": "compound",
+        "equipment": "other",
+        "primaryMuscles": [
+            "lats"
+        ],
+        "secondaryMuscles": [
+            "abdominals",
+            "biceps",
+            "forearms",
+            "middle back",
+            "shoulders",
+            "traps",
+            "triceps"
+        ],
+        "instructions": [
+            "Grip the rings using a false grip, with the base of your palms on top of the rings. Initiate a pull up by pulling the elbows down to your side, flexing the elbows.",
+            "As you reach the top position of the pull-up, pull the rings to your armpits as you roll your shoulders forward, allowing your elbows to move straight back behind you. This puts you into the proper position to continue into the dip portion of the movement.",
+            "Maintaining control and stability, extend through the elbow to complete the motion.",
+            "Use care when lowering yourself to the ground."
+        ],
+        "category": "strength",
+        "images": [
+            "Muscle_Up/0.jpg",
+            "Muscle_Up/1.jpg"
+        ],
+        "id": "Muscle_Up"
+    },
+    {
+        "name": "Rope Climb",
+        "force": "pull",
+        "level": "intermediate",
+        "mechanic": "compound",
+        "equipment": "other",
+        "primaryMuscles": [
+            "lats"
+        ],
+        "secondaryMuscles": [
+            "biceps",
+            "forearms",
+            "middle back",
+            "shoulders"
+        ],
+        "instructions": [
+            "Grab the rope with both hands above your head. Pull down on the rope as you take a small jump.",
+            "Wrap the rope around one leg, using your feet to pinch the rope. Reach up as high as possible with your arms, gripping the rope tightly.",
+            "Release the rope from your feet as you pull yourself up with your arms, bringing your knees towards your chest.",
+            "Resecure your feet on the rope, and then stand up to take another high hold on the rope. Continue until you reach the top of the rope.",
+            "To lower yourself, loosen the grip of your feet on the rope as you slide down using a hand over hand motion."
+        ],
+        "category": "strength",
+        "images": [
+            "Rope_Climb/0.jpg",
+            "Rope_Climb/1.jpg"
+        ],
+        "id": "Rope_Climb"
+    }
+]
